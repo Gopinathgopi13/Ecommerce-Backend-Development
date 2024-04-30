@@ -1,0 +1,2 @@
+db username = ecommerce
+db password = Ecommerce@123
